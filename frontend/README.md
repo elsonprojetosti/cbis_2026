@@ -78,3 +78,55 @@ O acesso é protegido por três camadas visíveis ao usuário:
 1. **Login com 2FA** (código TOTP via aplicativo autenticador)
 2. **Aceite obrigatório da LGPD** (antes do primeiro acesso aos dados)
 3. **Controle modular** (usuário vê apenas módulos autorizados)
+
+---
+
+## Telas do Sistema Águia
+
+### 1. Módulos Águia
+![Módulos Águia](imgs/1.Módulos-águia.png)
+
+### 2. Fluxo de Entrada - Login
+![Fluxo de Entrada - Login](imgs/2.Fluxo%20de%20entrada-login.png)
+
+### 3. Tela Principal
+![Tela Principal](imgs/3.png)
+
+### 4. Consulta de Gestantes
+![Consulta de Gestantes](imgs/4.Consulta_Gestantes.png)
+
+### 5. Acompanhamento de Gestantes (Sífilis)
+![Acompanhamento Sífilis](imgs/5.Acompanhamento_Gestantes_Sifilis.png)
+
+### 6. Aplicação - Sífilis na Gestante
+![Aplicação Sífilis](imgs/6.Aplicacao_Sifilis_Gestante.png)
+
+### 7. Gestações em Aberto
+![Gestações em Aberto](imgs/7.Gestacoes_Aberto.png)
+
+### 8. Busca Ativa NPN
+![Busca Ativa NPN](imgs/8.Busca_ativa_NPN.png)
+
+### 9. OMMA (Observatório da Mulher Manauara)
+![OMMA](imgs/9.OMMA.png)
+
+### 10. OMMA - Exames Citopatológicos por Faixa Etária
+![OMMA Citopatológicos](imgs/10.OMMA_Citopatologicos_Faixa.png)
+
+### 11. OMMA - Ampulheta
+![OMMA Ampulheta](imgs/11.OMMA_Ampulheta.png)
+
+### 12. Raio-X ITB
+![Raio-X ITB](imgs/12.Raio_X_ITB.png)
+
+### 13. Óbito - Prontuários em Aberto
+![Óbito Prontuários em Aberto](imgs/13.Obito_Prontuarios_Aberto.png)
+
+### 14. Óbito - Atendimento Pós-Óbito
+![Óbito Atendimento Pós-Óbito](imgs/14.Obito_Atendimento_Pos_Obito.png)
+
+### 15. Registros de Notificação SIM (CID)
+![Registros Notificação SIM CID](imgs/15.Registros_Notificacao_SIM_CID.png)
+
+### 16. Registros de Notificação SIM (Grupo)
+![Registros Notificação SIM Grupo](imgs/16.Registros_Notificacao_SIM_Grupo.png)
