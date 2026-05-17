@@ -46,6 +46,14 @@ O sistema integra dados de múltiplos sistemas oficiais do SUS — e-SUS PEC, SI
 
 ---
 
+## Telas e Interface Visual
+
+Para visualizar com detalhes as capturas de tela dos módulos, painéis e fluxos do sistema (como Dashboard, Busca Ativa NPN, Módulo OMMA, etc), acesse a documentação do frontend:
+
+👉 **[Ver Galeria de Telas e Interface do Sistema Águia](frontend/README.md)**
+
+---
+
 ## Estrutura deste Repositório
 
 ```
