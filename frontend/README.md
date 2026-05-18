@@ -90,7 +90,7 @@ O acesso é protegido por três camadas visíveis ao usuário:
 ![Fluxo de Entrada - Login](imgs/2.Fluxo%20de%20entrada-login.png)
 
 ### 3. Tela Principal
-![Tela Principal](imgs/3.png)
+![Tela Principal](imgs/3.Tela_Principal.png)
 
 ### 4. Consulta de Gestantes
 ![Consulta de Gestantes](imgs/4.Consulta_Gestantes.png)
